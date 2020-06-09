@@ -1,4 +1,6 @@
 # Human-Face-Detection-in-Excessive-Dark-Image
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3886979.svg)](https://doi.org/10.5281/zenodo.3886979)
+
 Research Paper: Human face detection in excessive dark image by using contrast stretching, histogram equalization and adaptive equalization.
 Link: https://www.sciencepubco.com/index.php/ijet/article/view/13713
 
