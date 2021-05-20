@@ -1,12 +1,6 @@
 # Human-Face-Detection-in-Excessive-Dark-Image
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3886979.svg)](https://doi.org/10.5281/zenodo.3886979)
 
-Research Paper: Human face detection in excessive dark image by using contrast stretching, histogram equalization and adaptive equalization.
-Link: https://www.sciencepubco.com/index.php/ijet/article/view/13713
-
-Thesis Paper: Image visualization and face detection technique into extreme dark environment.
-Link: http://dspace.library.daffodilvarsity.edu.bd:8080/handle/20.500.11948/2697
-
 Tools and Libraries: Python, OpenCV, NumPy, Scikit-image, Matplotlib, SciPy, Haarcascades, Spyder IDE, Anaconda.
 
 Summary: 
