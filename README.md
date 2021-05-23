@@ -1,4 +1,4 @@
-# Human-Face-Detection-in-Excessive-Dark-Image
+# Human Face Detection in Excessive Dark Image
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3886979.svg)](https://doi.org/10.5281/zenodo.3886979)
 
 Tools and Libraries: Python, OpenCV, NumPy, Scikit-image, Matplotlib, SciPy, Haarcascades, Spyder IDE, Anaconda.
